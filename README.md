@@ -1,5 +1,6 @@
 # Healthcare-domain-Machine-Learning-Project
-The main purpose of the project is analysing and predicting diabetes using the pima diabetes dataset depending upon preg, age, test etc
+Predictive Modeling: The primary aim is to develop and evaluate predictive models that can accurately forecast the likelihood of diabetes based on various health-related features.
+Feature Impact Analysis: To understand how different features (such as pregnancies, age, glucose levels, etc.) contribute to the prediction of diabetes, thereby identifying key indicators for early diagnosis.
 Implemented multiple machine learning algorithms including Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Tree, Naive Bayes, and Support Vector Classifier.
 Used the 'Pima Indians Diabetes' dataset to classify diabetes outcomes.
 Applied 10-fold cross-validation for model evaluation, ensuring robust accuracy comparison across models.
